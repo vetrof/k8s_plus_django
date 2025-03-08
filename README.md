@@ -1,7 +1,5 @@
 # k8s_plus_django
 
-пересборка образа  
-
 ```
 docker build -t username/k8s-django-app:latest .
 docker push username/k8s-django-app:latest
